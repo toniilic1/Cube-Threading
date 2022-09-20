@@ -1,6 +1,6 @@
-### _PROJECTNAME_
----
-[![File Number](https://img.shields.io/github/directory-file-count/toniilic1/______ "File Number")](https://github.com/toniilic1/______)
+### Cube Threading
+
+[![File Number](https://img.shields.io/github/directory-file-count/toniilic1/Cube-Threading "File Number")](https://github.com/toniilic1/Cube-Threading)
 [![Size](https://img.shields.io/github/repo-size/toniilic1/Cube-Threading)](https://github.com/toniilic1/Cube-Threading)
 [![Commits](https://img.shields.io/github/commit-activity/m/toniilic1/Cube-Threading)](https://github.com/toniilic1/Cube-Threading/graphs/commit-activity)
 [![License](https://img.shields.io/github/license/toniilic1/Cube-Threading "License")](https://github.com/toniilic1/Cube-Threading/blob/master/LICENSE.txt "License")
